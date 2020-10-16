@@ -35,6 +35,7 @@ header .container{
     color: var(--red);
     font-size: 2.5rem;
     margin-left: 20px;
+    text-decoration: none;
 }
 
 header nav ul{
