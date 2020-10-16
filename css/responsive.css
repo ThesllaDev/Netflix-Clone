@@ -1,0 +1,29 @@
+@media screen and (max-width: 600px){
+    header .container{
+        flex-direction: column;
+    }
+
+    .buttons button{
+        margin-top: 10px;
+    }
+}
+
+@media screen and (min-width: 1000px){
+    
+    header .container{
+        justify-content: space-around;
+    }
+    
+    header nav a:hover{
+        color: #fff;
+    }
+
+    .sinopse{
+        width: 40vw;
+    }
+
+    .buttons button:hover{
+        background-color: #fff;
+        color: var(--black);
+    }
+}
