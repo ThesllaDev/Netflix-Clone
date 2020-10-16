@@ -104,3 +104,11 @@ button i{
     background-color: #fff;
     color: var(--black);
 }
+
+/* CAROUSEL MOVIE */
+
+.box-movie{
+    display: block;
+    height: 100%;
+    width: 100%;
+}
