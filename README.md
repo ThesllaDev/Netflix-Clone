@@ -15,4 +15,4 @@
 * [JQuery](https://jquery.com/)
 * [FontAwesome](https://fontawesome.com/)
 
-[Acesse o site clicando aqui](https://theslladev.github.io/Pagina-inicial-do-insta/)
+[Acesse o site clicando aqui](https://theslladev.github.io/Netflix-Clone/)
